@@ -14,5 +14,3 @@ In order to optimize our inventory, we would like to know which films will be re
 4. Analyze extracted features (X) and transform them. You may need to encode some categorical variables, or scale numerical variables.
 5. Create a logistic regression model to predict 'rented_in_may' from the cleaned data.
 6. Evaluate the results.
-
-
